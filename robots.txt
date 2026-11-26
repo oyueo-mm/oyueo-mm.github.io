@@ -1,0 +1,5 @@
+# Host-wide crawler policy for oyueo-mm.github.io (all project sites under this host).
+User-agent: *
+Allow: /
+
+Sitemap: https://oyueo-mm.github.io/YachtLab/sitemap.xml
